@@ -13,4 +13,8 @@ print("line 4 by push")
 print("line on local")
 print("line on local")
 print("line on local")
+<<<<<<< HEAD
 print("line on local")
+=======
+print("line on local")
+>>>>>>> a3de81ad8363c1f27f50ed5ca4d4c4d70ddb1843
