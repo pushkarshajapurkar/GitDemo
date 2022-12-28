@@ -10,3 +10,7 @@ print("line 4 ")
 =======
 print("line 4 by push")
 >>>>>>> 7b9a16d447402b4d9a43999f67132934eda6ec95
+print("line on local")
+print("line on local")
+print("line on local")
+print("line on local")
