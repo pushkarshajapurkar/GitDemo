@@ -15,4 +15,7 @@ print("line on local")
 print("line on local")
 print("line on local")
 print("line on local")
+<<<<<<< HEAD
 print("pppsss")
+=======
+>>>>>>> f8b3a93090f940a2ddbaf760c1643e8fe4e40323
